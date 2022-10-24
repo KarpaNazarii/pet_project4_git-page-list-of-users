@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet_project4_git-page-list-of-users/static/css/main.cd5d95a0.css",
+    "main.js": "/pet_project4_git-page-list-of-users/static/js/main.626e836c.js",
+    "index.html": "/pet_project4_git-page-list-of-users/index.html",
+    "main.cd5d95a0.css.map": "/pet_project4_git-page-list-of-users/static/css/main.cd5d95a0.css.map",
+    "main.626e836c.js.map": "/pet_project4_git-page-list-of-users/static/js/main.626e836c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.626e836c.js"
+  ]
+}
