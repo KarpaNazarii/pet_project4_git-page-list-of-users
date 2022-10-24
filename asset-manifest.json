@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pet_project4_git-page-list-of-users/static/css/main.e76f1a80.css",
+    "main.css": "/pet_project4_git-page-list-of-users/static/css/main.05550437.css",
     "main.js": "/pet_project4_git-page-list-of-users/static/js/main.f2972bc5.js",
     "static/media/success.svg": "/pet_project4_git-page-list-of-users/static/media/success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
     "index.html": "/pet_project4_git-page-list-of-users/index.html",
     "static/media/plus.svg": "/pet_project4_git-page-list-of-users/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
     "static/media/minus.svg": "/pet_project4_git-page-list-of-users/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
-    "main.e76f1a80.css.map": "/pet_project4_git-page-list-of-users/static/css/main.e76f1a80.css.map",
+    "main.05550437.css.map": "/pet_project4_git-page-list-of-users/static/css/main.05550437.css.map",
     "main.f2972bc5.js.map": "/pet_project4_git-page-list-of-users/static/js/main.f2972bc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.e76f1a80.css",
+    "static/css/main.05550437.css",
     "static/js/main.f2972bc5.js"
   ]
 }
